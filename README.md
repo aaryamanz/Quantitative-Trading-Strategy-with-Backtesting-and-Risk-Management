@@ -94,6 +94,3 @@ Some potential future improvements to this project include:
 - Incorporating machine learning models to predict stock movements.
 - Adding real-time trading functionality using live data.
 - Implementing more robust risk management techniques such as value at risk (VaR).
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
