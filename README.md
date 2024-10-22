@@ -11,7 +11,6 @@ This project demonstrates the development of a **Quantitative Trading Strategy**
 6. [Project Structure](#project-structure)
 7. [Results](#results)
 8. [Future Work](#future-work)
-9. [License](#license)
 
 ## Project Overview
 This project implements and backtests a quantitative trading strategy using historical financial data. The trading signals are generated based on technical indicators, such as moving averages, and the strategy is tested on past price movements to assess its profitability and robustness. Additionally, risk management techniques are applied to manage the potential risks of the strategy.
